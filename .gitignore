@@ -1,0 +1,32 @@
+# build artifacts
+build/
+out/
+dist/
+cache/
+*.obj
+*.exp
+*.lib
+
+# generated
+src/forward.cpp
+tools/SDL2.def
+
+# logs & runtime
+*.log
+zhpatch/
+
+# ida / debugger
+*.i64
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+*.imcp
+*.pdb
+
+# misc
+*.zip
+*.png
+__pycache__/
+strings_all.txt

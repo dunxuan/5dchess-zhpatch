@@ -1,0 +1,464 @@
+UTF-8	UTF-8
+UTF-16LEUNICODE	UTF-16LEUNICODE
+UNICODE	UNICODE
+JFIF	JFIF
+Adobe	Adobe
+RGB	RGB
+~ GLHF ~	~ GLHF ~
+{ draw_tunnel_piece_shadow(chess_ui); }	{ draw_tunnel_piece_shadow(chess_ui); }
+{ draw_timetravel_arrows(chess_ui); }	{ draw_timetravel_arrows(chess_ui); }
+{ draw_check_arrows(chess_ui); }	{ draw_check_arrows(chess_ui); }
+{ draw_available_move_arrows(chess_ui); }	{ draw_available_move_arrows(chess_ui); }
+{ draw_check_hint_buttons(chess_ui); }	{ draw_check_hint_buttons(chess_ui); }
+{ draw_tab_hint_buttons(chess_ui); }	{ draw_tab_hint_buttons(chess_ui); }
+{ draw_travelling_pieces(chess_ui); }	{ draw_travelling_pieces(chess_ui); }
+{ draw_timetravel_diagram(chess_ui); }	{ draw_timetravel_diagram(chess_ui); }
+{ draw_ui(chess_ui); }	{ draw_ui(chess_ui); }
+{ draw_finalize(chess_ui); }	{ draw_finalize(chess_ui); }
+{ draw_multiverse(chess_ui); }	{ draw_multiverse(chess_ui); }
+{ draw_tunnel_piece(chess_ui); }	{ draw_tunnel_piece(chess_ui); }
+{ draw_chess_boards(chess_ui, false, true); }	{ draw_chess_boards(chess_ui, false, true); }
+{ draw_chess_boards(chess_ui, true, false); }	{ draw_chess_boards(chess_ui, true, false); }
+Standard - Reversed Royalty	标准 - 反转王权
+flagrant illegality	公然违规
+Play	开始游戏
+gl swap window	gl swap window
+tunnel piece and shadow	tunnel piece and shadow
+Available Now	现已推出
+History View	历史视图
+Parallel View	平行视图
+Game ended - Draw	游戏结束 - 和棋
+Quit to menu	退出到菜单
+first glClearColor/glClear/glViewport	first glClearColor/glClear/glViewport
+Short	短
+The Present	现在
+Exit	退出
+Checkmate Practice - Knight	将死练习 - 马
+Simple - Simple Set	简单 - 基础棋子
+Connect	连接
+Deselect	取消选择
+multiverse floor receives shadows	multiverse floor receives shadows
+timetravel diagram and stripe receives shadows	timetravel diagram and stripe receives shadows
+Versus	对战
+Strategy Tips and Miscellaneous	攻略提示与杂项
+Linux and Mac Ports	Linux 与 Mac 移植版
+Conor Petersen Presents	Conor Petersen 出品
+Misc - Timeline Fragments	杂项 - 时间线碎片
+Credits	制作人员
+Focused - Just Knights	专注 - 全是马
+Simple - No Knights	简单 - 无马
+Introduction to 5D Chess	5D国际象棋入门
+5D Chess	5D国际象棋
+Standard - Princess	标准 - 公主
+Misc - Timeline Marauders	杂项 - 时间线掠夺者
+Focused - Just Bishops	专注 - 全是象
+Simple - No Bishops	简单 - 无象
+Simple - Knights vs. Bishops	简单 - 马对象
+Guide - Strategy Tips	指南 - 攻略提示
+Strategy Tips	攻略提示
+Misc - Timeline Strategos	杂项 - 时间线将军
+Focused - Just Brawns	专注 - 全是壮兵
+Focused - Just Pawns	专注 - 全是兵
+Checkmate Practice - Pawns	将死练习 - 兵
+Focused - Just Unicorns	专注 - 全是独角兽
+Attributions	素材署名
+Community Contributions	社区贡献
+Misc - Timeline Formations	杂项 - 时间线阵型
+Focused - Just Dragons	专注 - 全是龙
+Game ended - Black wins	游戏结束 - 黑方胜
+Game ended - White wins	游戏结束 - 白方胜
+Focused - Just Queens	专注 - 全是后
+Simple - No Queens	简单 - 无后
+Focused - Just Rooks	专注 - 全是车
+Simple - No Rooks	简单 - 无车
+Additional Thanks	特别感谢
+Clocks	时限
+Settings	设置
+Focused - Just Kings	专注 - 全是王
+Misc - King of Kings	杂项 - 万王之王
+Submit Moves	确认走子
+Standard - Two Timelines	标准 - 双时间线
+Turns and Timelines	回合与时间线
+Guide - Timelines	指南 - 时间线
+Enable test varians to include test names	启用测试变体以显示测试名称
+Puzzles	谜题
+Rules	规则
+AMD Radeon HD 7800 Series	AMD Radeon HD 7800 Series
+Your turn - Black pieces	轮到你 - 黑方
+Their turn - Black pieces	轮到对方 - 黑方
+travelling pieces	travelling pieces
+Your turn - White pieces	轮到你 - 白方
+Their turn - White pieces	轮到对方 - 白方
+Non-standard Pieces	非标准棋子
+Standard Pieces	标准棋子
+Guide - Pieces	指南 - 棋子
+transparent boards	transparent boards
+opaque boards	opaque boards
+Intel(R) HD Graphics	Intel(R) HD Graphics
+Error	错误
+multiverse floor	multiverse floor
+battleground skewer	battleground skewer
+main render	main render
+Regular	常规
+the loop	the loop
+Checkmate Practice - Bishop	将死练习 - 象
+Auto perspective flip	自动翻转视角
+Opening Traps IV ~ Mate-in-two	开局陷阱 IV ~ 两步杀
+Combination Attacks IV ~ Mate-in-two	组合攻击 IV ~ 两步杀
+Queen Tactics IV ~ Mate-in-two	后战术 IV ~ 两步杀
+Combination Attacks V ~ Mate-in-two	组合攻击 V ~ 两步杀
+Rook Tactics V ~ Mate-in-two	车战术 V ~ 两步杀
+Backrank Basics III ~ Mate-in-two	底线基础 III ~ 两步杀
+Queen Tactics II ~ Mate-in-two	后战术 II ~ 两步杀
+Rook Tactics II ~ Mate-in-two	车战术 II ~ 两步杀
+Backrank Basics II ~ Mate-in-two	底线基础 II ~ 两步杀
+Combination Attacks I ~ Mate-in-two	组合攻击 I ~ 两步杀
+Standard - Turn Zero	标准 - 第零回合
+Started less than a day ago	开始于一天以内
+Started more than a day ago	开始于一天以前
+Started less than ten minutes ago	开始于十分钟以内
+Started less than an hour ago	开始于一小时以内
+Started a minute ago	开始于一分钟前
+Misc - Royal Queen Showdown	杂项 - 王后对决
+Standard - Defended Pawn	标准 - 受保护的兵
+Guide - Introduction	指南 - 引言
+gamma correction	gamma correction
+Misc - Timeline Invasion	杂项 - 时间线入侵
+Click to join	点击加入
+Created By Conor Petersen	由 Conor Petersen 创作
+Very Small - Open	极小 - 开阔
+Small - Open	小 - 开阔
+Checkmate Practice - Queen	将死练习 - 后
+Misc - Timeline Tactician	杂项 - 时间线战术家
+Medium	中
+Variant: Random / Clocks: Short / You play: Random	变体：随机 / 时限：短 / 你执：随机
+Variant: Standard / Clocks: Medium / You play: Random	变体：标准 / 时限：中 / 你执：随机
+Random	随机
+timetravel diagram	timetravel diagram
+Very Small	极小
+Small	小
+Welcome to 5D Chess With Multiverse Time Travel	欢迎来到《5D国际象棋：多元宇宙时间旅行》
+With Multiverse Time Travel	多元宇宙时间旅行
+Click to cancel	点击取消
+demo label	demo label
+Checkmate Practice - Rook	将死练习 - 车
+Short Clock	短时限
+No Clock	不限时
+Medium Clock	中时限
+Long Clock	长时限
+Black	黑方
+Playtesting and Feedback	试玩测试与反馈
+Testing and Feedback	测试与反馈
+Misc - Timeline Skirmish	杂项 - 时间线遭遇战
+Your match	你的对局
+Join Match	加入对局
+Versus - Custom Match	对战 - 自定义对局
+Custom Match	自定义对局
+Versus - Local Match	对战 - 本地对局
+Local Match	本地对局
+Cancel Private Match	取消私人对局
+Create Private Match	创建私人对局
+Versus - Private Match	对战 - 私人对局
+Private Match	私人对局
+Create Public Match	创建公开对局
+Versus - Public Match	对战 - 公开对局
+Public Match	公开对局
+Versus - CPU Match	对战 - 人机对局
+CPU Match	人机对局
+Long	长
+Additional Testing	补充测试
+Misc - Global Warming	杂项 - 全球变暖
+exiled hang	exiled hang
+vso not a hang	vso not a hang
+Off	关
+Undo Move	悔棋
+Misc - Excessive	杂项 - 过度
+White	白方
+Private	私人
+Guide - Checkmate	指南 - 将死
+Click to create	点击创建
+main update	main update
+Knight Tactics IV ~ Mate-in-one	马战术 IV ~ 一步杀
+Bishop Tactics IV ~ Mate-in-one	象战术 IV ~ 一步杀
+Rook Tactics IV ~ Mate-in-one	车战术 IV ~ 一步杀
+Opening Traps V ~ Mate-in-one	开局陷阱 V ~ 一步杀
+Knight Tactics V ~ Mate-in-one	马战术 V ~ 一步杀
+Bishop Tactics V ~ Mate-in-one	象战术 V ~ 一步杀
+Knight Tactics VII ~ Mate-in-one	马战术 VII ~ 一步杀
+Opening Traps III ~ Mate-in-one	开局陷阱 III ~ 一步杀
+Combination Attacks III ~ Mate-in-one	组合攻击 III ~ 一步杀
+Tricky Checkmates III ~ Mate-in-one	巧妙将死 III ~ 一步杀
+Knight Tactics III ~ Mate-in-one	马战术 III ~ 一步杀
+Bishop Tactics III ~ Mate-in-one	象战术 III ~ 一步杀
+Pawn Tactics III ~ Mate-in-one	兵战术 III ~ 一步杀
+Rook Tactics III ~ Mate-in-one	车战术 III ~ 一步杀
+King Tactics III ~ Mate-in-one	王战术 III ~ 一步杀
+Opening Traps II ~ Mate-in-one	开局陷阱 II ~ 一步杀
+Combination Attacks II ~ Mate-in-one	组合攻击 II ~ 一步杀
+Tricky Checkmates II ~ Mate-in-one	巧妙将死 II ~ 一步杀
+Knight Tactics II ~ Mate-in-one	马战术 II ~ 一步杀
+Bishop Tactics II ~ Mate-in-one	象战术 II ~ 一步杀
+Pawn Tactics II ~ Mate-in-one	兵战术 II ~ 一步杀
+Unicorn Tactics II ~ Mate-in-one	独角兽战术 II ~ 一步杀
+King Tactics II ~ Mate-in-one	王战术 II ~ 一步杀
+Advanced Branching II ~ Mate-in-one	进阶分支 II ~ 一步杀
+Opening Traps I ~ Mate-in-one	开局陷阱 I ~ 一步杀
+Tricky Checkmates I ~ Mate-in-one	巧妙将死 I ~ 一步杀
+Knight Tactics I ~ Mate-in-one	马战术 I ~ 一步杀
+Bishop Tactics I ~ Mate-in-one	象战术 I ~ 一步杀
+Pawn Tactics I ~ Mate-in-one	兵战术 I ~ 一步杀
+Unicorn Tactics I ~ Mate-in-one	独角兽战术 I ~ 一步杀
+Dragon Tactics I ~ Mate-in-one	龙战术 I ~ 一步杀
+Queen Tactics I ~ Mate-in-one	后战术 I ~ 一步杀
+Rook Tactics I ~ Mate-in-one	车战术 I ~ 一步杀
+King Tactics I ~ Mate-in-one	王战术 I ~ 一步杀
+Backrank Basics I ~ Mate-in-one	底线基础 I ~ 一步杀
+Advanced Branching I ~ Mate-in-one	进阶分支 I ~ 一步杀
+Forfeit game	认输
+Finish Game	结束对局
+Reset Puzzle	重置谜题
+Finish Puzzle	完成谜题
+Backrank Basics IV ~ Mate-in-three	底线基础 IV ~ 三步杀
+Knight Tactics VI ~ Mate-in-three	马战术 VI ~ 三步杀
+Queen Tactics III ~ Mate-in-three	后战术 III ~ 三步杀
+Bad passcode	邀请码错误
+Guide	指南
+Enable ambience	开启环境音
+Thunkspace	Thunkspace
+Go to Discord	前往 Discord
+Copy Discord link to clipboard	复制 Discord 链接到剪贴板
+Copy Discord invite to clipboard	复制 Discord 邀请到剪贴板
+Copy passcode to clipboard	复制邀请码到剪贴板
+Standard	标准
+Enable sound	开启音效
+Misc - Timeline Battleground	杂项 - 时间线战场
+Completed	已完成
+Standard - Half Reflected	标准 - 半镜像
+Small - Centered	小 - 居中
+Small - Flipped	小 - 翻转
+Guide - Misc	指南 - 杂项
+Enable music	开启音乐
+Public	公开
+Miscellany and Eratta	杂项与勘误
+PICT	PICT
+FULLSCREEN	全屏
+COLORBLIND	色盲
+TEST BUILD	测试版
+TEST BUILD EXPIRED	测试版已过期
+AMD Radeon HD 6530D	AMD Radeon HD 6530D
+AMD Radeon HD 6550A	AMD Radeon HD 6550A
+What is Checkmate?	什么是将死？
+What is 5D Checkmate?	什么是5D将死？
+Join the Community:	加入社区：
+Strategy Tips:	攻略提示：
+Quick Rules:	快速规则：
+Copy+paste this passcode to your match partner:	把此邀请码复制粘贴给你的对局伙伴：
+Complete Rules and Justification:	完整规则与制定依据：
+Find partners on the official Discord:	在官方 Discord 上寻找伙伴：
+Completed:	已完成：
+GeForce GTX 1660 SUPER/PCIe/SSE2	GeForce GTX 1660 SUPER/PCIe/SSE2
+GeForce GT 520M/PCI/SSE2	GeForce GT 520M/PCI/SSE2
+Intel(R) HD Graphics 4600	Intel(R) HD Graphics 4600
+Intel(R) HD Graphics 5500	Intel(R) HD Graphics 5500
+Intel(R) HD Graphics 2500	Intel(R) HD Graphics 2500
+Intel(R) HD Graphics 4400	Intel(R) HD Graphics 4400
+Intel(R) HD Graphics 5100	Intel(R) HD Graphics 5100
+Intel(R) HD Graphics 4000	Intel(R) HD Graphics 4000
+Intel(R) HD Graphics 3000	Intel(R) HD Graphics 3000
+With Multiverse Time Travel Versus - Local CPU Public Match Private Custom Puzzles Credits Settings Guide Intro Pieces Checkmate Timelines Strategy Tips Extra Miscellany.	多元宇宙时间旅行 对战 - 本地 人机 公开对局 私人 自定义 谜题 制作人员 设置 指南 - 引言 棋子 将死 时间线 攻略提示 额外 杂项.
+    The traditional rules that determine how pieces move are not specific to two dimensions. These movement rules are interpreted using additional axes and coordinates to describe a piece's position and movement. A piece occupies a row, column, turn, and timeline, and can move accordingly.	    决定棋子如何走的传统规则并不局限于二维。这些走法通过额外的轴和坐标来描述棋子的位置与移动。每个棋子占据一行、一列、一个回合和一条时间线，并据此移动。
+1. Most of the rules are the same as ordinary chess.\n2. Your pieces can move through time and between timelines just like they move along rows and columns.\n3. The past cannot be changed. Moving a piece to the past causes a new timeline to be created.\n4. To complete a turn, make moves until The Present shifts to your opponent.\n5. If you cannot complete your turn without leaving one of your king's attacked, you're checkmated (or stalemated).\n\n    Go try a match vs the trainer CPU. You can start with a simplified board configuration. Revisit these rules once you have a little bit of context.	1. 大部分规则与普通国际象棋相同。\n2. 你的棋子可以穿越时间、在时间线之间移动，就像在行与列之间移动一样。\n3. 过去无法被改变。把棋子移到过去会创建一条新的时间线。\n4. 要完成一个回合，不断走子，直到「现在」转移到对手一方。\n5. 如果你无法在不让任一王受攻击的情况下结束回合，你就被将死了（或被逼和）。\n\n    去和训练 CPU 来一局吧。你可以先用简化的棋盘配置。等熟悉之后再回来看这些规则。
+Connect to see public match list.	连接后可查看公开对局列表。
+Guide - Pieces cont.	指南 - 棋子（续）
+The princess is an alternate interpretation of the queen. It can only move in one or two dimensions at a time. This means it is only rook and bishop movement, and not unicorn or dragon movement.	公主是后的另一种解读。它每次只能在一个或两个维度上移动，也就是说只有车和象的走法，没有独角兽和龙的走法。
+The rook moves any distance in one dimension at a time. For example, while a rook is moving along a column, its row, turn, and timeline are constant.	车每次沿一个维度移动任意距离。例如，车沿列移动时，它的行、回合和时间线保持不变。
+1) What is checkmate?\n    If a player has no way to move The Present without leaving their king attacked, then they are checkmated (or stalemated). In ordinary chess, this means they cannot make any move without leaving their king attacked. Here, it means they cannot make any sequence of moves that shifts The Present without leaving one of their kings attacked. Stalemate can occur in these conditions if The Present cannot be shifted, but no king is immediately attacked.\n@\n2) What if only one timeline is mated?\n    If it is impossible to advance a particular timeline without leaving a king attacked, you must rewind The Present using a piece from a different timeline. A timeline that is softmated in this manner often forces the softmated player to stall until they can capture the threatening piece from a new timeline.\n@\n3) What is check?\n    A move that attacks a king's past is a valid check (it is not a special case, consider that applying the move would create a timeline with a captured king on it). If a timeline's advancement means a king is attacked, that timeline will have a check indicator on it.	1) 什么是将死？\n    如果一方无法在不让王受攻击的情况下推进「现在」，那么他就被将死了（或逼和）。在普通国际象棋中，这意味着他不能走出任何不让自己王受攻击的着法。在这里，这意味着他无法走出任何能在不让王受攻击的情况下转移「现在」的着法序列。如果「现在」无法转移、但没有王立即受攻击，就会出现逼和。\n@\n2) 如果只有一条时间线被将死怎么办？\n    如果无法在不让王受攻击的情况下推进某条时间线，你必须用来自另一条时间线的棋子把「现在」倒退回去。以这种方式被软将死的一方，往往只能拖延回合，直到他能从一条新时间线上吃掉威胁他的棋子。\n@\n3) 什么是将军？\n    攻击王的过去的着法是有效的将军（这不是特例：设想一下，若执行该着法，会生成一条上面有被吃之王的新时间线）。如果推进某条时间线会导致某王受攻击，该时间线上会显示将军指示。
+Your opponent has left.	你的对手已离开。
+Unable to connect.	无法连接。
+    Additional dimensions imply the existence of new pieces, and alternate interpretations of existing pieces. These pieces are available in some non-standard variants.	    额外的维度意味着新棋子的存在，以及对现有棋子的另类解读。这些棋子出现在某些非标准变体中。
+The bishop moves any distance in two dimensions at once. A direction defined by two dimensions is called a diagonal. In ordinary chess, a bishop moves along row/column diagonals, but here it can move along any combination of two dimensions.	象同时沿两个维度移动任意距离。由两个维度确定的方向称为斜线。在普通国际象棋中，象沿行/列斜线移动，而在这里它可以沿任意两个维度的组合移动。
+The queen moves any distance in any number of dimensions at once. This is more than just rook and bishop movement, because it includes triagonals and quadragonals.	后可以同时在任意数量的维度上移动任意距离。这不只是车和象走法的叠加，还包括三斜线和四斜线。
+The pawn moves one or two squares in the "forward" direction. Here, "forward" includes the direction towards your opponent's back timeline. The pawn can attack forward one square along row/column (spacelike) and timeline/turn (timelike) diagonals.	兵在「向前」方向上移动一格或两格。这里的「向前」包括朝对手最后方时间线的方向。兵可以沿行/列（类空间）斜线向前攻击一格，也可以沿时间线/回合（类时间）斜线向前攻击一格。
+The brawn is an alternate interpretation of the pawn. It can attack along any diagonal that includes a forward direction and does not include any backward direction. This is another valid interpretation of the traditional pawn, and has more available attacks than just purely spacelike or purely timelike attacks.	壮兵是兵的另一种解读。它可以沿任何包含向前分量、且不含任何向后分量的斜线攻击。这也是对传统兵的合理解读，可用的攻击比纯粹的类空间攻击或纯粹的类时间攻击更多。
+No vsync becuase launch parameter.	因启动参数未启用垂直同步。
+No msaa becuase launch parameter.	因启动参数未启用多重采样抗锯齿。
+Auto flip persp.	自动翻转视角
+Flip Persp.	翻转视角
+The knight moves two squares in one dimension, then one square in a different dimension.	马先在一个维度上移动两格，再在另一个不同的维度上移动一格。
+The program was unable to create an OpenGL context with the desired version (3.3 Core). This could mean your GPU is too old to run the game, or only that your GPU driver version is too old. Please check your GPU and driver version and try again.	程序无法创建所需版本（3.3 Core）的 OpenGL 上下文。这可能意味着你的显卡太旧、无法运行游戏，也可能只是显卡驱动版本太旧。请检查你的显卡和驱动版本后重试。
+Initialization successful.	初始化成功。
+The dragon can move any distance along a quadragonal.	龙可以沿四斜线移动任意距离。
+The unicorn can move any distance along a triagonal.	独角兽可以沿三斜线移动任意距离。
+New version availble.	发现新版本。
+The king moves one square in any number of dimensions at once.	王可以同时在任意数量的维度上移动一格。
+      Ask questions, share tricks, and find people to play with on the official Discord.	      在官方 Discord 上提问、分享技巧、寻找棋友。
+@\nQuick Rules:\n1. Most of the rules are the same as ordinary chess.\n2. Your pieces can move through time and between timelines just like they move along rows and columns.\n3. The past cannot be changed. Moving a piece to the past causes a new timeline to be created.\n4. To complete a turn, make moves until The Present shifts to your opponent.\n5. If you can't stop one of your kings from being captured, you're checkmated.\n\n    Go try a match vs. the trainer CPU! You can start with a simplified board configuration. Revisit this guide once you have a little bit of context or specific questions. It is recommended that clocks (time controls) are kept disabled for friendly matches.\n\nAsk questions, share tricks, and find people to play with on the official Discord.	@\n快速规则：\n1. 大部分规则与普通国际象棋相同。\n2. 你的棋子可以穿越时间、在时间线之间移动，就像在行与列之间移动一样。\n3. 过去无法被改变。把棋子移到过去会创建一条新的时间线。\n4. 要完成一个回合，不断走子，直到「现在」转移到对手一方。\n5. 如果你无法阻止任一王被吃，你就被将死了。\n\n    去和训练 CPU 来一局吧！你可以先用简化的棋盘配置。等有了一些概念或具体问题时，再回来看这份指南。友谊对局建议保持时限（时间控制）关闭。\n\n在官方 Discord 上提问、分享技巧、寻找棋友。
+Copy Discord link to clipboard.	复制 Discord 链接到剪贴板。
+You have disconnected.	你已断开连接。
+Disconnected.	已断开连接。
+Connection rejected.	连接被拒绝。
+The royal queen moves like a queen, except that it is royalty. If your opponent can capture a royal queen, you are checkmated.	王后的走法与后相同，区别在于它是王权棋子。如果你的对手能吃到王后，你就被将死了。
+The common king moves like a king, except that it is not royalty. It is not significant that a common king is attacked or captured.	庶王的走法与王相同，区别在于它不是王权棋子。庶王被攻击或被吃都无关紧要。
+Window creation failed.	窗口创建失败。
+INTEL_FIX: gladLoadGLLoader(SDL_GL_GetProcAddress) failed.	INTEL_FIX: gladLoadGLLoader(SDL_GL_GetProcAddress) failed.
+Recreating window without multisample for old Intel gpu...	正在为旧款 Intel 显卡重建无多重采样的窗口...
+Requesting public match list...	正在请求公开对局列表...
+In Progress...	进行中...
+Looking for legal turns...	正在寻找合法回合...
+Connecting...	连接中...
+Thinking...	思考中...
+Retrying window creation without multisample...	正在重试以无多重采样方式创建窗口...
+The program was unable to create an OpenGL context with the desired version (3.3 Core).	程序无法创建所需版本（3.3 Core）的 OpenGL 上下文。
+Failed to create a thread in create_client_socket().	在 create_client_socket() 中创建线程失败。
+Failed to create a mutex in create_chess_worker_thread().	在 create_chess_worker_thread() 中创建互斥量失败。
+Failed to create a condition variable in create_chess_worker_thread().	在 create_chess_worker_thread() 中创建条件变量失败。
+- Server History -	- 服务器历史 -
+- Join Match -	- 加入对局 -
+- Create Quick Match -	- 创建快速对局 -
+Trainer (weak)	训练师（弱）
+Aggressive (strong)	激进型（强）
+Balanced (strong)	均衡型（强）
+No Clock (recommended)	不限时（推荐）
+Colorblind Mode (Deuteranopia)	色盲模式（绿色弱）
+Long (40+8/L)	长（40+8/L）
+Medium (20+5/L)	中（20+5/L）
+Short (10+3/L)	短（10+3/L）
+Fullscreen (F11)	全屏（F11）
+Draw!	和棋！
+You win!	你赢了！
+Thanks for Playing!	感谢游玩！
+Puzzle incomplete!	谜题未完成！
+Puzzle complete!	谜题完成！
+You lose!	你输了！
+Your opponent has disconnected!	你的对手已断开连接！
+You have disconnected!	你已断开连接！
+OpenGL ES 	OpenGL ES 
+OpenGL ES-CM 	OpenGL ES-CM 
+OpenGL ES-CL 	OpenGL ES-CL 
+Visibility: 	可见性： 
+Select variant: 	选择变体： 
+Variant: 	变体： 
+Select color: 	选择棋色： 
+Color: 	棋色： 
+Reset completion: 	重置进度： 
+Select time control: 	选择时限： 
+Time control: 	时限： 
+Select puzzle: 	选择谜题： 
+Enter your passcode: 	输入你的邀请码： 
+Passcode: 	邀请码： 
+Select AI: 	选择AI： 
+Recommended - 	推荐 - 
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ:-~.! 	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ:-~.! 
+\n            layout(location = 0) in vec3 in_position;\n            layout(location = 1) in vec2 in_uv;\n\n            out vec2 v_uv;\n            out vec3 v_xyz;\n\n            uniform mat4 mvp;\n\n            void main() {\n                gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n                v_xyz = in_position.xyz;\n                v_uv = in_uv;\n            }\n            	\n            layout(location = 0) in vec3 in_position;\n            layout(location = 1) in vec2 in_uv;\n\n            out vec2 v_uv;\n            out vec3 v_xyz;\n\n            uniform mat4 mvp;\n\n            void main() {\n                gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n                v_xyz = in_position.xyz;\n                v_uv = in_uv;\n            }\n            
+\n            layout(location = 0) in vec3 in_position;\n            layout(location = 1) in vec2 in_uv;\n\n            out vec2 v_uv;\n\n            uniform mat4 mvp;\n\n            void main() {\n                gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n                v_uv = in_uv;\n            }\n            	\n            layout(location = 0) in vec3 in_position;\n            layout(location = 1) in vec2 in_uv;\n\n            out vec2 v_uv;\n\n            uniform mat4 mvp;\n\n            void main() {\n                gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n                v_uv = in_uv;\n            }\n            
+\n            layout(location = 0) in vec3 in_position;\n            layout(location = 1) in vec2 in_uv;\n            layout(location = 2) in float in_a;\n\n            out vec2 v_uv;\n            out float v_a;\n\n            uniform mat4 mvp;\n\n            void main() {\n                gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n                v_uv = in_uv;\n                v_a = in_a;\n            }\n            	\n            layout(location = 0) in vec3 in_position;\n            layout(location = 1) in vec2 in_uv;\n            layout(location = 2) in float in_a;\n\n            out vec2 v_uv;\n            out float v_a;\n\n            uniform mat4 mvp;\n\n            void main() {\n                gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n                v_uv = in_uv;\n                v_a = in_a;\n            }\n            
+\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec2 in_uv;\nlayout(location = 2) in vec4 in_shape_data0;\nlayout(location = 3) in vec4 in_shape_data1;\nlayout(location = 4) in vec4 in_rgba0;\nlayout(location = 5) in vec4 in_rgba1;\nlayout(location = 6) in vec4 in_rgba2;\nlayout(location = 7) in vec4 in_rgba3;\n\nuniform mat4 mvp;\n\nout vec3 v_xyz;\nout vec2 v_uv;\nout vec4 v_shape_data0;\nout vec4 v_shape_data1;\nout vec4 v_rgba0;\nout vec4 v_rgba1;\nout vec4 v_rgba2;\nout vec4 v_rgba3;\nout vec3 v_circle_center;\n\nvoid main() {\n    vec4 position = mvp * vec4(in_position, 1.0);\n    gl_Position = position;\n    v_xyz = in_position.xyz;\n    v_uv = in_uv;\n    v_shape_data0 = in_shape_data0;\n    v_shape_data1 = in_shape_data1;\n    v_rgba0 = in_rgba0;\n    v_rgba1 = in_rgba1;\n    v_rgba2 = in_rgba2;\n    v_rgba3 = in_rgba3;\n    v_circle_center = in_shape_data0.yzw;\n}\n	\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec2 in_uv;\nlayout(location = 2) in vec4 in_shape_data0;\nlayout(location = 3) in vec4 in_shape_data1;\nlayout(location = 4) in vec4 in_rgba0;\nlayout(location = 5) in vec4 in_rgba1;\nlayout(location = 6) in vec4 in_rgba2;\nlayout(location = 7) in vec4 in_rgba3;\n\nuniform mat4 mvp;\n\nout vec3 v_xyz;\nout vec2 v_uv;\nout vec4 v_shape_data0;\nout vec4 v_shape_data1;\nout vec4 v_rgba0;\nout vec4 v_rgba1;\nout vec4 v_rgba2;\nout vec4 v_rgba3;\nout vec3 v_circle_center;\n\nvoid main() {\n    vec4 position = mvp * vec4(in_position, 1.0);\n    gl_Position = position;\n    v_xyz = in_position.xyz;\n    v_uv = in_uv;\n    v_shape_data0 = in_shape_data0;\n    v_shape_data1 = in_shape_data1;\n    v_rgba0 = in_rgba0;\n    v_rgba1 = in_rgba1;\n    v_rgba2 = in_rgba2;\n    v_rgba3 = in_rgba3;\n    v_circle_center = in_shape_data0.yzw;\n}\n
+\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec2 in_uv;\n\nout vec2 v_uv;\n\nvoid main() {\n    gl_Position = vec4(in_position.x, in_position.y, in_position.z, 1.0);\n    v_uv = in_uv;\n}\n	\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec2 in_uv;\n\nout vec2 v_uv;\n\nvoid main() {\n    gl_Position = vec4(in_position.x, in_position.y, in_position.z, 1.0);\n    v_uv = in_uv;\n}\n
+\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec2 in_uv;\n\nout vec2 v_uv;\n\nuniform mat4 mvp;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n    v_uv = in_uv;\n}\n	\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec2 in_uv;\n\nout vec2 v_uv;\n\nuniform mat4 mvp;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n    v_uv = in_uv;\n}\n
+\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec2 in_uv;\nlayout(location = 2) in vec4 in_color;\n\nout vec2 v_uv;\nout vec4 v_color;\n\nuniform mat4 mvp;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n    v_uv = in_uv;\n    v_color = in_color;\n}\n	\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec2 in_uv;\nlayout(location = 2) in vec4 in_color;\n\nout vec2 v_uv;\nout vec4 v_color;\n\nuniform mat4 mvp;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n    v_uv = in_uv;\n    v_color = in_color;\n}\n
+\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec4 in_color;\n\nout vec4 v_color;\n\nuniform mat4 mvp;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n    v_color = in_color;\n}\n	\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec4 in_color;\n\nout vec4 v_color;\n\nuniform mat4 mvp;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n    v_color = in_color;\n}\n
+\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec3 in_color;\n\nout vec3 v_color;\n\nuniform mat4 mvp;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n    v_color = in_color;\n}\n	\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec3 in_color;\n\nout vec3 v_color;\n\nuniform mat4 mvp;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n    v_color = in_color;\n}\n
+\nin vec4 v_color;\n\nout vec4 out_color;\n\nuniform vec4 u_color_mod = vec4(1.0, 1.0, 1.0, 1.0);\nuniform vec4 u_color_add = vec4(0.0, 0.0, 0.0, 0.0);\n\nvoid main() {\n    out_color = v_color;\n\n    out_color *= u_color_mod;\n    out_color += u_color_add;\n}\n	\nin vec4 v_color;\n\nout vec4 out_color;\n\nuniform vec4 u_color_mod = vec4(1.0, 1.0, 1.0, 1.0);\nuniform vec4 u_color_add = vec4(0.0, 0.0, 0.0, 0.0);\n\nvoid main() {\n    out_color = v_color;\n\n    out_color *= u_color_mod;\n    out_color += u_color_add;\n}\n
+\nin vec3 v_color;\n\nout vec4 out_color;\n\nuniform vec4 u_color_mod = vec4(1.0, 1.0, 1.0, 1.0);\nuniform vec4 u_color_add = vec4(0.0, 0.0, 0.0, 0.0);\n\nvoid main() {\n    out_color = vec4(v_color.r, v_color.g, v_color.b, 1.0);\n\n    out_color *= u_color_mod;\n    out_color += u_color_add;\n}\n	\nin vec3 v_color;\n\nout vec4 out_color;\n\nuniform vec4 u_color_mod = vec4(1.0, 1.0, 1.0, 1.0);\nuniform vec4 u_color_add = vec4(0.0, 0.0, 0.0, 0.0);\n\nvoid main() {\n    out_color = vec4(v_color.r, v_color.g, v_color.b, 1.0);\n\n    out_color *= u_color_mod;\n    out_color += u_color_add;\n}\n
+\nout vec4 out_color;\n\nuniform vec4 u_color_mod = vec4(1.0, 1.0, 1.0, 1.0);\nuniform vec4 u_color_add = vec4(0.0, 0.0, 0.0, 0.0);\n\nvoid main() {\n    out_color = vec4(1.0, 1.0, 1.0, 1.0);\n\n    out_color *= u_color_mod;\n    out_color += u_color_add;\n}\n	\nout vec4 out_color;\n\nuniform vec4 u_color_mod = vec4(1.0, 1.0, 1.0, 1.0);\nuniform vec4 u_color_add = vec4(0.0, 0.0, 0.0, 0.0);\n\nvoid main() {\n    out_color = vec4(1.0, 1.0, 1.0, 1.0);\n\n    out_color *= u_color_mod;\n    out_color += u_color_add;\n}\n
+\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec2 in_uv;\nlayout(location = 2) in vec4 in_rgba;\nlayout(location = 3) in vec4 in_tint;\nlayout(location = 4) in vec2 in_uv2;\nlayout(location = 5) in vec4 in_extra;\n\nout vec2 v_uv;\nout vec4 v_rgba;\nout vec4 v_tint;\nout vec2 v_uv2;\nout vec4 v_extra;\n\nuniform mat4 mvp;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n    v_uv = in_uv;\n    v_rgba = in_rgba;\n    v_tint = in_tint;\n    v_uv2 = in_uv2;\n    v_extra = in_extra;\n}\n	\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec2 in_uv;\nlayout(location = 2) in vec4 in_rgba;\nlayout(location = 3) in vec4 in_tint;\nlayout(location = 4) in vec2 in_uv2;\nlayout(location = 5) in vec4 in_extra;\n\nout vec2 v_uv;\nout vec4 v_rgba;\nout vec4 v_tint;\nout vec2 v_uv2;\nout vec4 v_extra;\n\nuniform mat4 mvp;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n    v_uv = in_uv;\n    v_rgba = in_rgba;\n    v_tint = in_tint;\n    v_uv2 = in_uv2;\n    v_extra = in_extra;\n}\n
+\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec2 in_uv;\nlayout(location = 2) in vec4 in_rgba;\n\nout vec2 v_uv;\nout vec4 v_rgba;\n\nuniform mat4 mvp;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n    v_uv = in_uv;\n    v_rgba = in_rgba;\n}\n	\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec2 in_uv;\nlayout(location = 2) in vec4 in_rgba;\n\nout vec2 v_uv;\nout vec4 v_rgba;\n\nuniform mat4 mvp;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n    v_uv = in_uv;\n    v_rgba = in_rgba;\n}\n
+\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec2 in_uv;\nlayout(location = 2) in vec4 in_shape_data0;\nlayout(location = 3) in vec4 in_shape_data1;\nlayout(location = 4) in vec4 in_rgba0;\nlayout(location = 5) in vec4 in_rgba1;\nlayout(location = 6) in vec4 in_rgba2;\nlayout(location = 7) in vec4 in_rgba3;\n\nuniform mat4 mvp;\n\nout vec3 v_xyz;\nout vec2 v_uv;\nout vec4 v_shape_data0;\nout vec4 v_shape_data1;\nout vec4 v_rgba0;\nout vec4 v_rgba1;\nout vec4 v_rgba2;\nout vec4 v_rgba3;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position, 1.0);\n    v_xyz = in_position.xyz;\n    v_uv = in_uv;\n    v_shape_data0 = in_shape_data0;\n    v_shape_data1 = in_shape_data1;\n    v_rgba0 = in_rgba0;\n    v_rgba1 = in_rgba1;\n    v_rgba2 = in_rgba2;\n    v_rgba3 = in_rgba3;\n}\n	\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec2 in_uv;\nlayout(location = 2) in vec4 in_shape_data0;\nlayout(location = 3) in vec4 in_shape_data1;\nlayout(location = 4) in vec4 in_rgba0;\nlayout(location = 5) in vec4 in_rgba1;\nlayout(location = 6) in vec4 in_rgba2;\nlayout(location = 7) in vec4 in_rgba3;\n\nuniform mat4 mvp;\n\nout vec3 v_xyz;\nout vec2 v_uv;\nout vec4 v_shape_data0;\nout vec4 v_shape_data1;\nout vec4 v_rgba0;\nout vec4 v_rgba1;\nout vec4 v_rgba2;\nout vec4 v_rgba3;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position, 1.0);\n    v_xyz = in_position.xyz;\n    v_uv = in_uv;\n    v_shape_data0 = in_shape_data0;\n    v_shape_data1 = in_shape_data1;\n    v_rgba0 = in_rgba0;\n    v_rgba1 = in_rgba1;\n    v_rgba2 = in_rgba2;\n    v_rgba3 = in_rgba3;\n}\n
+\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec2 in_uv;\nlayout(location = 2) in vec4 in_color0;\nlayout(location = 3) in vec4 in_color1;\n\nout vec2 v_uv;\nout vec4 v_color0;\nout vec4 v_color1;\n\nuniform mat4 mvp;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n    v_uv = in_uv;\n    v_color0 = in_color0;\n    v_color1 = in_color1;\n}\n	\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec2 in_uv;\nlayout(location = 2) in vec4 in_color0;\nlayout(location = 3) in vec4 in_color1;\n\nout vec2 v_uv;\nout vec4 v_color0;\nout vec4 v_color1;\n\nuniform mat4 mvp;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n    v_uv = in_uv;\n    v_color0 = in_color0;\n    v_color1 = in_color1;\n}\n
+\nlayout(location = 0) in vec3 in_position;\n\nuniform mat4 mvp;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n}\n	\nlayout(location = 0) in vec3 in_position;\n\nuniform mat4 mvp;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n}\n
+\nChess Pieces by Colin M.L. Burnett / BSD License\nAdditional Chess Pieces by Francois-Pier / BSD License\nhttps://commons.wikimedia.org/wiki/Category:SVG_chess_pieces\n\nCrimson Text by Sebastian Kosch / SIL Open Font License 1.1\nhttps://github.com/skosch/Crimson\n\nPublic Sans by Pablo Impallari, Rodrigo Fuenzalida (Modified by Dan O. Williams and USWDS) / SIL Open Font License 1.1\nhttps://github.com/uswds/public-sans\n\nInconsolata by The Inconsolata Project Authors / SIL Open Font License 1.1\nhttps://github.com/googlefonts/inconsolata\n\nVarious sounds by freesound.org users:\nAnton, tbrook, revolt2563, Samulis, mhomran, SamuelGremaud, Karma-Ron\n\nSoftware by the authors of:\nSDL2, SDL2_mixer, stb_image, stb_truetype, Dear ImGui, glad\n\nComplete licenses and per-file attributions can be found with the application's files.\n\n\nCopyright (c) 2020 Thunkspace, LLC\nAll Rights Reserved\n	\n国际象棋棋子由 Colin M.L. Burnett 制作 / BSD 许可证\n更多国际象棋棋子由 Francois-Pier 制作 / BSD 许可证\nhttps://commons.wikimedia.org/wiki/Category:SVG_chess_pieces\n\nCrimson Text 由 Sebastian Kosch 制作 / SIL 开放字体许可证 1.1\nhttps://github.com/skosch/Crimson\n\nPublic Sans 由 Pablo Impallari、Rodrigo Fuenzalida 制作（由 Dan O. Williams 和 USWDS 修改）/ SIL 开放字体许可证 1.1\nhttps://github.com/uswds/public-sans\n\nInconsolata 由 The Inconsolata Project 作者制作 / SIL 开放字体许可证 1.1\nhttps://github.com/googlefonts/inconsolata\n\n部分声音来自 freesound.org 用户：\nAnton, tbrook, revolt2563, Samulis, mhomran, SamuelGremaud, Karma-Ron\n\n以下软件出自其作者：\nSDL2, SDL2_mixer, stb_image, stb_truetype, Dear ImGui, glad\n\n完整许可证与逐文件署名见程序自带文件。\n\n\nCopyright (c) 2020 Thunkspace, LLC\n保留所有权利\n
+Hotkeys:\nSelect/Drop: L/R mouse\nUndo: Backspace or Z\nSubmit: Enter or F\nReset puzzle: R\nCycle boards: Tab\nMove: WASD or arrows\nZoom: EQ or scroll\nViews: TY\nFlip Perspective: U\n	快捷键：\n选择/放置：鼠标左/右键\n悔棋：Backspace 或 Z\n确认：Enter 或 F\n重置谜题：R\n切换棋盘：Tab\n走子：WASD 或方向键\n缩放：EQ 或滚轮\n视角：TY\n翻转视角：U\n
+#?RADIANCE\n	#?RADIANCE\n
+#?RGBE\n	#?RGBE\n
+1) Who's turn is it?\n    A player makes moves while it is their turn in The Present. To complete their turn, a player must make moves until The Present shifts to their opponent. This can be done by taking action on multiple boards until The Present advances, or by creating a timeline in the past that rewinds The Present.\n@\n2) Which timelines must be played?\n    A player can ignore any timelines that are not needed to advance or rewind The Present. If a player branches twice before their opponent branches once, the extra branches will be inactive, and won't affect The Present until their opponent makes more branches. You can tell whether your next branch will be active by looking for a purple arrow indicator on The Present.\n\n@\n3) How are timelines created?\n    If a piece moves to a board where a move has already occured, a new timeline branch is created because history cannot be altered. The latest move on the new timeline is the time travelling piece's arrival. The latest move on the original timeline is the time travelling piece's departure.\n	1) 轮到谁走？\n    当轮到你时，你可以在「现在」走子。要结束回合，你必须不断走子，直到「现在」转移到对手一方。这可以通过在多个棋盘上行动、直至「现在」推进来实现，也可以通过在过去创建一条时间线、把「现在」倒退回去来实现。\n@\n2) 必须走哪些时间线？\n    对于推进或倒退「现在」没有帮助的时间线，可以不予理会。如果你在对手分支一次之前分支了两次，多出的分支将是未激活的，在对手做出更多分支之前不会影响「现在」。你可以查看「现在」上是否出现紫色箭头指示，来判断你的下一个分支是否会激活。\n\n@\n3) 时间线是如何创建的？\n    当棋子移动到一个已经走过子的棋盘上（属于某条时间线历史的一部分）时，由于历史无法更改，就会创建一条新的时间线分支。新时间线上最后一步是穿越棋子的到达，原时间线上最后一步是穿越棋子的出发。\n
+Strategy Tips:\n- Attacking a king's past is easier than attacking its present. History cannot be altered to change where the king was or to allow another piece to block the attack. The attacker must be captured!\n- If you're in check on one timeline, your only option may be to time travel very far backwards from another timeline. Plan ahead and find a way to remove the troublesome check!\n- If a player branches twice before their opponent branches once, the extra timeline will be inactive and can be ignored. If a player cannot create active timelines, they cannot use time travel to get out of trouble. Branch purposefully!\n@\nMiscellaneous:\n- If the game is over and someone is checkmated (or stalemated), you can try moves on their behalf to see why.\n- One unit of time on a timeline is two boards. In ordinary chess, each numbered turn of a game is one move from white and one from black. For example, "1. e4 e5 2. f4 ..." is notation for the King's Gambit opening. One unit of time is the distance between your move and your previous move (with your opponent's reply in between). Select a piece and use the History or Parallel view to visualize moves without your opponent's boards visible.\n	攻略提示：\n- 攻击王的过去比攻击它的现在更容易。历史无法被改变：既不能改变王当时所在的位置，也不能让别的棋子过来挡拆。必须把进攻的棋子吃掉！\n- 如果你在某条时间线上被将军，唯一的办法可能是从另一条时间线大幅向过去穿越。提前规划，想办法解掉恼人的将军！\n- 如果你在对手分支一次之前分支了两次，多出的时间线将未激活，可以忽略。如果一方无法创建激活的时间线，他就无法用穿越时间摆脱困境。要带着目的去分支！\n@\n杂项：\n- 对局结束、有人被将死（或逼和）之后，你可以替他试着走几步，看看为什么会这样。\n- 时间线上一个单位的时间等于两个棋盘。在普通国际象棋中，对局的每个编号回合包含白方一步和黑方一步。例如「1. e4 e5 2. f4 ...」是王翼弃兵开局的记谱。一个单位的时间就是你的这一步与上一步之间的距离（中间夹着对手的应着）。选中一个棋子，使用历史视图或平行视图，可以在不显示对手棋盘的情况下查看走子。\n
+    The rules of 5D Chess with Multiverse Time Travel are generalized from the rules of ordinary chess. The 5D in the name refers to the typical two spatial dimensions, a third unused spatial dimension, a fourth dimension representing time, and a fifth dimension representing parallel timelines. When pieces travel to the past, paradoxes are avoided by using a branching timeline system.\n\nSubjects:\n1) What is checkmate?\n2) How are a piece's available moves determined?\n3) What happens when a piece travels to the past?\n4) Who's turn is it, and on which timelines must they move?\n\n1) What is checkmate?\n    If a player has no way to end their turn (no way to move The Present without leaving themselves in check), then they are checkmated (or stalemated). For a game with a single timeline, this means all of their moves leave them in check (equivalent to ordinary chess). For a game with multiple timelines, it means every combination of moves leaves them in check and every time travel move leaves them in check. If a player has no way to end their turn, but they could pass on every board in the present without leaving themselves in check, they are stalemated rather than checkmated. A move that attacks a king's past is a valid check (it is not a special case, consider that applying the move would create a timeline with a captured king on it).\n\n2) How are a piece's available moves determined?\n    The existing rules that determine a piece's available moves are not specific to two dimensions. The movement rules are interpreted using additional coordinates to describe a piece's position. At the start of the game, white's queenside rook is on square A1. Technically, that rook is on turn 1, timeline 0, file A, rank 1. Just like in ordinary chess, a rook moves in a line with one dimension. A rook moving forward across the board is moving in one dimension because it is changing its row, but keeping its column, turn, and timeline constant. A rook moving into the past would change its turn, but keep its row, column, and timeline constant.\n\n2a) Why are two boards equal to one turn?\n    In ordinary chess, each numbered turn of the game is one move from white and one from black. For example, "1. e4 e5 2. f4 ..." is notation for the King's Gambit opening. Therefore, one turn is the distance between your move and your previous move (with your opponent's reply in between).\n\n2b) Piece movement descriptions:\nA rook moves any distance in one dimension.\nA bishop moves any distance in two dimensions at once. A direction defined by two dimensions is called a diagonal. In ordinary chess, bishops move along row/column diagonals.\nA knight moves two squares in one dimension, then one square in a different dimension.\nA queen moves any distance in any number of dimensions at once. This is more than just rook+bishop movement, because it includes triagonals and quadragonals.\nA king can move one square in any number of dimensions at once.\nA pawn moves one or two squares at a time in the "forward" direction. In ordinary chess, "forward" means towards your opponent's back row. Here, it also means "forward" towards your opponent's back timeline. A pawn can attack forward on row/column diagonals and forward on turn/timeline diagonals. A pawn only attacks on these two dimensional pairs, not on all forward diagonals.\nA unicorn can move any distance along a triagonal.\nA dragon can move any distance along a quadragonal.\nA princess is similar to the queen, except that it only has rook+bishop movement. It appears in the Standard - Princess variant.\n\n3) What happens when a piece travels to the past?\n    If a player moves a piece to a board where a move has already occured (part of a timeline's history), a new branch is created because history cannot be altered. The latest move on the new timeline is the time travelling piece's arrival. The latest move on the original timeline is the time travelling piece's departure. If a piece is moved to a board where a move has not yet been played (no established history), no branch occurs.\n\n4) Who's turn is it, and on which timelines must they move?\n    A player makes moves as long as it is their turn in The Present. The Present is wherever the earliest board without a move is on any active timeline. To complete a turn, a player may need to make multiple moves to advance all the active timelines to the next turn. If a player can create a new timeline, they can rewind The Present as a result of that single move, even if they had multiple boards in the present. If a player branches twice before their opponent branches once, the extra branches will be inactive, and won't affect The Present until their opponent makes more branches.\n\nThanks for reading!\n	    《5D国际象棋：多元宇宙时间旅行》的规则由普通国际象棋的规则推广而来。名称中的 5D 指通常的两个空间维度、一个未使用的第三空间维度、代表时间的第四维度，以及代表平行时间线的第五维度。当棋子穿越到过去时，通过分支时间线系统来避免悖论。\n\n主题：\n1) 什么是将死？\n2) 棋子的可走着法是如何确定的？\n3) 棋子穿越到过去会发生什么？\n4) 轮到谁走，以及必须在哪些时间线上走子？\n\n1) 什么是将死？\n    如果一方无法结束自己的回合（无法在不让自己被将军的情况下推进「现在」），那么他就被将死了（或逼和）。对于单时间线的对局，这意味着他所有的走子都会让自己被将军（与普通国际象棋相同）。对于多时间线的对局，这意味着任何走子组合都会让他被将军，任何穿越时间的走子也会让他被将军。如果一方无法结束回合，但他本可以在当前的每个棋盘上跳过、而不让自己被将军，那么他被的是逼和而不是将死。攻击王的过去的着法是有效的将军（这不是特例：设想一下，若执行该着法，会生成一条上面有被吃之王的新时间线）。\n\n2) 棋子的可走着法是如何确定的？\n    现有的棋子走法规则并不局限于二维。这些规则通过额外的坐标来描述棋子的位置。开局时，白方后翼的车在 A1 格。严格来说，这个车位于第 1 回合、时间线 0、A 线、第 1 横排。与普通国际象棋一样，车沿一个维度的直线移动。车向前穿过棋盘是在一个维度上移动，因为它改变了行，而列、回合和时间线保持不变。车向过去移动则会改变它的回合，而行、列和时间线保持不变。\n\n2a) 为什么两个棋盘等于一个回合？\n    在普通国际象棋中，对局的每个编号回合包含白方一步和黑方一步。例如「1. e4 e5 2. f4 ...」是王翼弃兵开局的记谱。因此，一个回合就是你的这一步与上一步之间的距离（中间夹着对手的应着）。\n\n2b) 棋子走法说明：\n车沿一个维度移动任意距离。\n象同时沿两个维度移动任意距离。由两个维度确定的方向称为斜线。在普通国际象棋中，象沿行/列斜线移动。\n马先在一个维度上移动两格，再在另一个不同的维度上移动一格。\n后可以同时在任意数量的维度上移动任意距离。这不只是车+象的走法，还包括三斜线和四斜线。\n王可以同时在任意数量的维度上移动一格。\n兵每次在「向前」方向上移动一格或两格。在普通国际象棋中，「向前」指向对手的底线。在这里，「向前」还包括指向对手最后方时间线的方向。兵可以沿行/列斜线向前攻击，也可以沿回合/时间线斜线向前攻击。兵只在这两组维度对上攻击，而不是所有向前的斜线。\n独角兽可以沿三斜线移动任意距离。\n龙可以沿四斜线移动任意距离。\n公主与后相似，但只有车+象的走法。它出现在「标准 - 公主」变体中。\n\n3) 棋子穿越到过去会发生什么？\n    如果一方把棋子移动到一个已经走过子的棋盘上（属于某条时间线历史的一部分），由于历史无法更改，就会创建一个新分支。新时间线上最后一步是穿越棋子的到达，原时间线上最后一步是穿越棋子的出发。如果棋子被移动到一个还没有走过子的棋盘上（尚无既定历史），则不会产生分支。\n\n4) 轮到谁走，以及必须在哪些时间线上走子？\n    只要「现在」轮到你，你就可以走子。「现在」位于任何激活时间线上最早的、还没有走子的棋盘。要结束一个回合，你可能需要走多步，把所有激活的时间线都推进到下一个回合。如果一方能创建新时间线，他可以仅凭那一步就把「现在」倒退回去，即使他在当前有多个棋盘。如果一方在对手分支一次之前分支了两次，多出的分支将是未激活的，在对手做出更多分支之前不会影响「现在」。\n\n感谢阅读！\n
+- Attacking a king's past is easier than attacking its present. History cannot be altered to change where the king was or to allow another piece to block the attack. The attacker must be captured!\n- If you're in check on one timeline, your only option may be to time travel very far backwards from another timeline.\n- Your pieces can only travel to your boards.\n- If a player branches twice before their opponent branches once, the extra timeline will be inactive and won't affect The Present. If a player cannot create active timelines because they've already branched too much, they cannot use time travel to get out of trouble. Branch purposefully!\n- If someone is checkmated (or stalemated), you can try moves on their behalf to see why.\n\n	- 攻击王的过去比攻击它的现在更容易。历史无法被改变：既不能改变王当时所在的位置，也不能让别的棋子过来挡拆。必须把进攻的棋子吃掉！\n- 如果你在某条时间线上被将军，唯一的办法可能是从另一条时间线大幅向过去穿越。\n- 你的棋子只能穿越到你自己的棋盘上。\n- 如果你在对手分支一次之前分支了两次，多出的时间线将未激活，也不会影响「现在」。如果你因为分支过多而无法创建激活的时间线，就无法用穿越时间摆脱困境。要带着目的去分支！\n- 如果有人被将死（或逼和），你可以替他试着走几步，看看为什么会这样。\n\n
+July	七月
+Sunday	星期日
+Monday	星期一
+Friday	星期五
+May	五月
+Nov	11月
+Thu	周四
+August	八月
+Oct	10月
+Sat	周六
+Apr	4月
+Mar	3月
+Sep	9月
+Sun	周日
+Jun	6月
+Mon	周一
+Jan	1月
+Jul	7月
+April	四月
+Fri	周五
+March	三月
+Aug	8月
+Tue	周二
+June	六月
+Wed	周三
+Dec	12月
+Feb	2月
+NAN	NAN
+`RTTI	`RTTI
+`EH	`EH
+INF	INF
+dddd, MMMM dd, yyyy	dddd, MMMM dd, yyyy
+MM/dd/yy	MM/dd/yy
+February	二月
+January	一月
+Thursday	星期四
+Tuesday	星期二
+Wednesday	星期三
+Saturday	星期六
+LCMapStringEx	LCMapStringEx
+operator co_await	operator co_await
+HH:mm:ss	HH:mm:ss
+Fatal Error	致命错误
+October	十月
+November	十一月
+September	九月
+December	十二月
+Out of memory - aborting	内存不足 - 中止
+NAN(SNAN)	NAN(SNAN)
+NAN(IND)	NAN(IND)
+`vector deleting destructor'	`vector deleting destructor'
+`scalar deleting destructor'	`scalar deleting destructor'
+`vbase destructor'	`vbase destructor'
+`vector copy constructor iterator'	`vector copy constructor iterator'
+`eh vector copy constructor iterator'	`eh vector copy constructor iterator'
+`managed vector copy constructor iterator'	`managed vector copy constructor iterator'
+`vector vbase copy constructor iterator'	`vector vbase copy constructor iterator'
+`eh vector vbase copy constructor iterator'	`eh vector vbase copy constructor iterator'
+`vector constructor iterator'	`vector constructor iterator'
+`eh vector constructor iterator'	`eh vector constructor iterator'
+`managed vector constructor iterator'	`managed vector constructor iterator'
+`vector vbase constructor iterator'	`vector vbase constructor iterator'
+`eh vector vbase constructor iterator'	`eh vector vbase constructor iterator'
+`vector destructor iterator'	`vector destructor iterator'
+`eh vector destructor iterator'	`eh vector destructor iterator'
+`managed vector destructor iterator'	`managed vector destructor iterator'
+`virtual displacement map'	`virtual displacement map'
+`vcall'	`vcall'
+`string'	`string'
+`udt returning'	`udt returning'
+`omni callsig'	`omni callsig'
+`typeof'	`typeof'
+`copy constructor closure'	`copy constructor closure'
+`default constructor closure'	`default constructor closure'
+`local vftable constructor closure'	`local vftable constructor closure'
+`placement delete closure'	`placement delete closure'
+`placement delete[] closure'	`placement delete[] closure'
+`vftable'	`vftable'
+`local vftable'	`local vftable'
+`vbtable'	`vbtable'
+`anonymous namespace'	`anonymous namespace'
+`local static thread guard'	`local static thread guard'
+`local static guard'	`local static guard'
+`dynamic atexit destructor for '	`dynamic atexit destructor for '
+`dynamic initializer for '	`dynamic initializer for '
+operator "" 	operator "" 
+PST	PST
+PDT	PDT

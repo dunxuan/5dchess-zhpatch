@@ -1,0 +1,465 @@
+kind	english
+lea	UTF-8
+lea	UTF-16LEUNICODE
+lea	UNICODE
+lea	JFIF
+lea	Adobe
+lea	RGB
+lea	~ GLHF ~
+lea	{ draw_tunnel_piece_shadow(chess_ui); }
+lea	{ draw_timetravel_arrows(chess_ui); }
+lea	{ draw_check_arrows(chess_ui); }
+lea	{ draw_available_move_arrows(chess_ui); }
+lea	{ draw_check_hint_buttons(chess_ui); }
+lea	{ draw_tab_hint_buttons(chess_ui); }
+lea	{ draw_travelling_pieces(chess_ui); }
+lea	{ draw_timetravel_diagram(chess_ui); }
+lea	{ draw_ui(chess_ui); }
+lea	{ draw_finalize(chess_ui); }
+lea	{ draw_multiverse(chess_ui); }
+lea	{ draw_tunnel_piece(chess_ui); }
+lea	{ draw_chess_boards(chess_ui, false, true); }
+lea	{ draw_chess_boards(chess_ui, true, false); }
+data	Standard - Reversed Royalty
+lea	flagrant illegality
+lea	Play
+lea	gl swap window
+lea	tunnel piece and shadow
+lea	Available Now
+lea	History View
+lea	Parallel View
+lea	Game ended - Draw
+lea	Quit to menu
+lea	first glClearColor/glClear/glViewport
+data	Short
+lea	The Present
+lea	Exit
+data	Checkmate Practice - Knight
+data	Simple - Simple Set
+lea	Connect
+lea	Deselect
+lea	multiverse floor receives shadows
+lea	timetravel diagram and stripe receives shadows
+lea	Versus
+lea	Strategy Tips and Miscellaneous
+lea	Linux and Mac Ports
+lea	Conor Petersen Presents
+data	Misc - Timeline Fragments
+lea	Credits
+data	Focused - Just Knights
+data	Simple - No Knights
+lea	Introduction to 5D Chess
+lea	5D Chess
+data	Standard - Princess
+data	Misc - Timeline Marauders
+data	Focused - Just Bishops
+data	Simple - No Bishops
+data	Simple - Knights vs. Bishops
+lea	Guide - Strategy Tips
+lea	Strategy Tips
+data	Misc - Timeline Strategos
+data	Focused - Just Brawns
+data	Focused - Just Pawns
+data	Checkmate Practice - Pawns
+data	Focused - Just Unicorns
+lea	Attributions
+lea	Community Contributions
+data	Misc - Timeline Formations
+data	Focused - Just Dragons
+lea	Game ended - Black wins
+lea	Game ended - White wins
+data	Focused - Just Queens
+data	Simple - No Queens
+data	Focused - Just Rooks
+data	Simple - No Rooks
+lea	Additional Thanks
+lea	Clocks
+lea	Settings
+data	Focused - Just Kings
+data	Misc - King of Kings
+lea	Submit Moves
+data	Standard - Two Timelines
+lea	Turns and Timelines
+lea	Guide - Timelines
+lea	Enable test varians to include test names
+lea	Puzzles
+lea	Rules
+lea	AMD Radeon HD 7800 Series
+lea	Your turn - Black pieces
+lea	Their turn - Black pieces
+lea	travelling pieces
+lea	Your turn - White pieces
+lea	Their turn - White pieces
+lea	Non-standard Pieces
+lea	Standard Pieces
+lea	Guide - Pieces
+lea	transparent boards
+lea	opaque boards
+lea	Intel(R) HD Graphics
+lea	Error
+lea	multiverse floor
+lea	battleground skewer
+lea	main render
+lea	Regular
+lea	the loop
+data	Checkmate Practice - Bishop
+lea	Auto perspective flip
+data	Opening Traps IV ~ Mate-in-two
+data	Combination Attacks IV ~ Mate-in-two
+data	Queen Tactics IV ~ Mate-in-two
+data	Combination Attacks V ~ Mate-in-two
+data	Rook Tactics V ~ Mate-in-two
+data	Backrank Basics III ~ Mate-in-two
+data	Queen Tactics II ~ Mate-in-two
+data	Rook Tactics II ~ Mate-in-two
+data	Backrank Basics II ~ Mate-in-two
+data	Combination Attacks I ~ Mate-in-two
+data	Standard - Turn Zero
+lea	Started less than a day ago
+lea	Started more than a day ago
+lea	Started less than ten minutes ago
+lea	Started less than an hour ago
+lea	Started a minute ago
+data	Misc - Royal Queen Showdown
+data	Standard - Defended Pawn
+lea	Guide - Introduction
+lea	gamma correction
+data	Misc - Timeline Invasion
+lea	Click to join
+lea	Created By Conor Petersen
+data	Very Small - Open
+data	Small - Open
+data	Checkmate Practice - Queen
+data	Misc - Timeline Tactician
+data	Medium
+lea	Variant: Random / Clocks: Short / You play: Random
+lea	Variant: Standard / Clocks: Medium / You play: Random
+both	Random
+lea	timetravel diagram
+data	Very Small
+data	Small
+lea	Welcome to 5D Chess With Multiverse Time Travel
+lea	With Multiverse Time Travel
+lea	Click to cancel
+lea	demo label
+data	Checkmate Practice - Rook
+both	Short Clock
+both	No Clock
+both	Medium Clock
+both	Long Clock
+lea	Black
+lea	Playtesting and Feedback
+lea	Testing and Feedback
+data	Misc - Timeline Skirmish
+lea	Your match
+lea	Join Match
+lea	Versus - Custom Match
+lea	Custom Match
+lea	Versus - Local Match
+lea	Local Match
+lea	Cancel Private Match
+lea	Create Private Match
+lea	Versus - Private Match
+lea	Private Match
+lea	Create Public Match
+lea	Versus - Public Match
+lea	Public Match
+lea	Versus - CPU Match
+lea	CPU Match
+data	Long
+lea	Additional Testing
+data	Misc - Global Warming
+lea	exiled hang
+lea	vso not a hang
+data	Off
+lea	Undo Move
+data	Misc - Excessive
+lea	White
+lea	Private
+lea	Guide - Checkmate
+lea	Click to create
+lea	main update
+data	Knight Tactics IV ~ Mate-in-one
+data	Bishop Tactics IV ~ Mate-in-one
+data	Rook Tactics IV ~ Mate-in-one
+data	Opening Traps V ~ Mate-in-one
+data	Knight Tactics V ~ Mate-in-one
+data	Bishop Tactics V ~ Mate-in-one
+data	Knight Tactics VII ~ Mate-in-one
+data	Opening Traps III ~ Mate-in-one
+data	Combination Attacks III ~ Mate-in-one
+data	Tricky Checkmates III ~ Mate-in-one
+data	Knight Tactics III ~ Mate-in-one
+data	Bishop Tactics III ~ Mate-in-one
+data	Pawn Tactics III ~ Mate-in-one
+data	Rook Tactics III ~ Mate-in-one
+data	King Tactics III ~ Mate-in-one
+data	Opening Traps II ~ Mate-in-one
+data	Combination Attacks II ~ Mate-in-one
+data	Tricky Checkmates II ~ Mate-in-one
+data	Knight Tactics II ~ Mate-in-one
+data	Bishop Tactics II ~ Mate-in-one
+data	Pawn Tactics II ~ Mate-in-one
+data	Unicorn Tactics II ~ Mate-in-one
+data	King Tactics II ~ Mate-in-one
+data	Advanced Branching II ~ Mate-in-one
+data	Opening Traps I ~ Mate-in-one
+data	Tricky Checkmates I ~ Mate-in-one
+data	Knight Tactics I ~ Mate-in-one
+data	Bishop Tactics I ~ Mate-in-one
+data	Pawn Tactics I ~ Mate-in-one
+data	Unicorn Tactics I ~ Mate-in-one
+data	Dragon Tactics I ~ Mate-in-one
+data	Queen Tactics I ~ Mate-in-one
+data	Rook Tactics I ~ Mate-in-one
+data	King Tactics I ~ Mate-in-one
+data	Backrank Basics I ~ Mate-in-one
+data	Advanced Branching I ~ Mate-in-one
+lea	Forfeit game
+lea	Finish Game
+lea	Reset Puzzle
+lea	Finish Puzzle
+data	Backrank Basics IV ~ Mate-in-three
+data	Knight Tactics VI ~ Mate-in-three
+data	Queen Tactics III ~ Mate-in-three
+lea	Bad passcode
+lea	Guide
+lea	Enable ambience
+lea	Thunkspace
+lea	Go to Discord
+lea	Copy Discord link to clipboard
+lea	Copy Discord invite to clipboard
+lea	Copy passcode to clipboard
+data	Standard
+lea	Enable sound
+data	Misc - Timeline Battleground
+lea	Completed
+data	Standard - Half Reflected
+data	Small - Centered
+data	Small - Flipped
+lea	Guide - Misc
+lea	Enable music
+lea	Public
+lea	Miscellany and Eratta
+lea	PICT
+lea	FULLSCREEN
+lea	COLORBLIND
+lea	TEST BUILD
+lea	TEST BUILD EXPIRED
+lea	AMD Radeon HD 6530D
+lea	AMD Radeon HD 6550A
+lea	What is Checkmate?
+lea	What is 5D Checkmate?
+lea	Join the Community:
+lea	Strategy Tips:
+lea	Quick Rules:
+lea	Copy+paste this passcode to your match partner:
+lea	Complete Rules and Justification:
+lea	Find partners on the official Discord:
+lea	Completed:
+lea	GeForce GTX 1660 SUPER/PCIe/SSE2
+lea	GeForce GT 520M/PCI/SSE2
+lea	Intel(R) HD Graphics 4600
+lea	Intel(R) HD Graphics 5500
+lea	Intel(R) HD Graphics 2500
+lea	Intel(R) HD Graphics 4400
+lea	Intel(R) HD Graphics 5100
+lea	Intel(R) HD Graphics 4000
+lea	Intel(R) HD Graphics 3000
+lea	With Multiverse Time Travel Versus - Local CPU Public Match Private Custom Puzzles Credits Settings Guide Intro Pieces Checkmate Timelines Strategy Tips Extra Miscellany.
+lea	    The traditional rules that determine how pieces move are not specific to two dimensions. These movement rules are interpreted using additional axes and coordinates to describe a piece's position and movement. A piece occupies a row, column, turn, and timeline, and can move accordingly.
+lea	1. Most of the rules are the same as ordinary chess.\n2. Your pieces can move through time and between timelines just like they move along rows and columns.\n3. The past cannot be changed. Moving a piece to the past causes a new timeline to be created.\n4. To complete a turn, make moves until The Present shifts to your opponent.\n5. If you cannot complete your turn without leaving one of your king's attacked, you're checkmated (or stalemated).\n\n    Go try a match vs the trainer CPU. You can start with a simplified board configuration. Revisit these rules once you have a little bit of context.
+lea	Connect to see public match list.
+lea	Guide - Pieces cont.
+lea	The princess is an alternate interpretation of the queen. It can only move in one or two dimensions at a time. This means it is only rook and bishop movement, and not unicorn or dragon movement.
+lea	The rook moves any distance in one dimension at a time. For example, while a rook is moving along a column, its row, turn, and timeline are constant.
+lea	1) What is checkmate?\n    If a player has no way to move The Present without leaving their king attacked, then they are checkmated (or stalemated). In ordinary chess, this means they cannot make any move without leaving their king attacked. Here, it means they cannot make any sequence of moves that shifts The Present without leaving one of their kings attacked. Stalemate can occur in these conditions if The Present cannot be shifted, but no king is immediately attacked.\n@\n2) What if only one timeline is mated?\n    If it is impossible to advance a particular timeline without leaving a king attacked, you must rewind The Present using a piece from a different timeline. A timeline that is softmated in this manner often forces the softmated player to stall until they can capture the threatening piece from a new timeline.\n@\n3) What is check?\n    A move that attacks a king's past is a valid check (it is not a special case, consider that applying the move would create a timeline with a captured king on it). If a timeline's advancement means a king is attacked, that timeline will have a check indicator on it.
+lea	Your opponent has left.
+lea	Unable to connect.
+lea	    Additional dimensions imply the existence of new pieces, and alternate interpretations of existing pieces. These pieces are available in some non-standard variants.
+lea	The bishop moves any distance in two dimensions at once. A direction defined by two dimensions is called a diagonal. In ordinary chess, a bishop moves along row/column diagonals, but here it can move along any combination of two dimensions.
+lea	The queen moves any distance in any number of dimensions at once. This is more than just rook and bishop movement, because it includes triagonals and quadragonals.
+lea	The pawn moves one or two squares in the "forward" direction. Here, "forward" includes the direction towards your opponent's back timeline. The pawn can attack forward one square along row/column (spacelike) and timeline/turn (timelike) diagonals.
+lea	The brawn is an alternate interpretation of the pawn. It can attack along any diagonal that includes a forward direction and does not include any backward direction. This is another valid interpretation of the traditional pawn, and has more available attacks than just purely spacelike or purely timelike attacks.
+lea	No vsync becuase launch parameter.
+lea	No msaa becuase launch parameter.
+lea	Auto flip persp.
+lea	Flip Persp.
+lea	The knight moves two squares in one dimension, then one square in a different dimension.
+lea	The program was unable to create an OpenGL context with the desired version (3.3 Core). This could mean your GPU is too old to run the game, or only that your GPU driver version is too old. Please check your GPU and driver version and try again.
+lea	Initialization successful.
+lea	The dragon can move any distance along a quadragonal.
+lea	The unicorn can move any distance along a triagonal.
+lea	New version availble.
+lea	The king moves one square in any number of dimensions at once.
+lea	      Ask questions, share tricks, and find people to play with on the official Discord.
+lea	@\nQuick Rules:\n1. Most of the rules are the same as ordinary chess.\n2. Your pieces can move through time and between timelines just like they move along rows and columns.\n3. The past cannot be changed. Moving a piece to the past causes a new timeline to be created.\n4. To complete a turn, make moves until The Present shifts to your opponent.\n5. If you can't stop one of your kings from being captured, you're checkmated.\n\n    Go try a match vs. the trainer CPU! You can start with a simplified board configuration. Revisit this guide once you have a little bit of context or specific questions. It is recommended that clocks (time controls) are kept disabled for friendly matches.\n\nAsk questions, share tricks, and find people to play with on the official Discord.
+lea	Copy Discord link to clipboard.
+lea	You have disconnected.
+lea	Disconnected.
+lea	Connection rejected.
+lea	The royal queen moves like a queen, except that it is royalty. If your opponent can capture a royal queen, you are checkmated.
+lea	The common king moves like a king, except that it is not royalty. It is not significant that a common king is attacked or captured.
+lea	Window creation failed.
+lea	INTEL_FIX: gladLoadGLLoader(SDL_GL_GetProcAddress) failed.
+lea	Recreating window without multisample for old Intel gpu...
+lea	Requesting public match list...
+lea	In Progress...
+lea	Looking for legal turns...
+lea	Connecting...
+lea	Thinking...
+lea	Retrying window creation without multisample...
+lea	The program was unable to create an OpenGL context with the desired version (3.3 Core).
+lea	Failed to create a thread in create_client_socket().
+lea	Failed to create a mutex in create_chess_worker_thread().
+lea	Failed to create a condition variable in create_chess_worker_thread().
+lea	- Server History -
+lea	- Join Match -
+lea	- Create Quick Match -
+lea	Trainer (weak)
+lea	Aggressive (strong)
+lea	Balanced (strong)
+lea	No Clock (recommended)
+lea	Colorblind Mode (Deuteranopia)
+lea	Long (40+8/L)
+lea	Medium (20+5/L)
+lea	Short (10+3/L)
+lea	Fullscreen (F11)
+lea	Draw!
+lea	You win!
+lea	Thanks for Playing!
+lea	Puzzle incomplete!
+lea	Puzzle complete!
+lea	You lose!
+lea	Your opponent has disconnected!
+lea	You have disconnected!
+data	OpenGL ES 
+data	OpenGL ES-CM 
+data	OpenGL ES-CL 
+lea	Visibility: 
+lea	Select variant: 
+lea	Variant: 
+lea	Select color: 
+lea	Color: 
+lea	Reset completion: 
+lea	Select time control: 
+lea	Time control: 
+lea	Select puzzle: 
+lea	Enter your passcode: 
+lea	Passcode: 
+lea	Select AI: 
+data	Recommended - 
+lea	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ:-~.! 
+lea	\n            layout(location = 0) in vec3 in_position;\n            layout(location = 1) in vec2 in_uv;\n\n            out vec2 v_uv;\n            out vec3 v_xyz;\n\n            uniform mat4 mvp;\n\n            void main() {\n                gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n                v_xyz = in_position.xyz;\n                v_uv = in_uv;\n            }\n            
+lea	\n            layout(location = 0) in vec3 in_position;\n            layout(location = 1) in vec2 in_uv;\n\n            out vec2 v_uv;\n\n            uniform mat4 mvp;\n\n            void main() {\n                gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n                v_uv = in_uv;\n            }\n            
+lea	\n            layout(location = 0) in vec3 in_position;\n            layout(location = 1) in vec2 in_uv;\n            layout(location = 2) in float in_a;\n\n            out vec2 v_uv;\n            out float v_a;\n\n            uniform mat4 mvp;\n\n            void main() {\n                gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n                v_uv = in_uv;\n                v_a = in_a;\n            }\n            
+lea	\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec2 in_uv;\nlayout(location = 2) in vec4 in_shape_data0;\nlayout(location = 3) in vec4 in_shape_data1;\nlayout(location = 4) in vec4 in_rgba0;\nlayout(location = 5) in vec4 in_rgba1;\nlayout(location = 6) in vec4 in_rgba2;\nlayout(location = 7) in vec4 in_rgba3;\n\nuniform mat4 mvp;\n\nout vec3 v_xyz;\nout vec2 v_uv;\nout vec4 v_shape_data0;\nout vec4 v_shape_data1;\nout vec4 v_rgba0;\nout vec4 v_rgba1;\nout vec4 v_rgba2;\nout vec4 v_rgba3;\nout vec3 v_circle_center;\n\nvoid main() {\n    vec4 position = mvp * vec4(in_position, 1.0);\n    gl_Position = position;\n    v_xyz = in_position.xyz;\n    v_uv = in_uv;\n    v_shape_data0 = in_shape_data0;\n    v_shape_data1 = in_shape_data1;\n    v_rgba0 = in_rgba0;\n    v_rgba1 = in_rgba1;\n    v_rgba2 = in_rgba2;\n    v_rgba3 = in_rgba3;\n    v_circle_center = in_shape_data0.yzw;\n}\n
+lea	\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec2 in_uv;\n\nout vec2 v_uv;\n\nvoid main() {\n    gl_Position = vec4(in_position.x, in_position.y, in_position.z, 1.0);\n    v_uv = in_uv;\n}\n
+lea	\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec2 in_uv;\n\nout vec2 v_uv;\n\nuniform mat4 mvp;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n    v_uv = in_uv;\n}\n
+lea	\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec2 in_uv;\nlayout(location = 2) in vec4 in_color;\n\nout vec2 v_uv;\nout vec4 v_color;\n\nuniform mat4 mvp;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n    v_uv = in_uv;\n    v_color = in_color;\n}\n
+lea	\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec4 in_color;\n\nout vec4 v_color;\n\nuniform mat4 mvp;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n    v_color = in_color;\n}\n
+lea	\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec3 in_color;\n\nout vec3 v_color;\n\nuniform mat4 mvp;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n    v_color = in_color;\n}\n
+lea	\nin vec4 v_color;\n\nout vec4 out_color;\n\nuniform vec4 u_color_mod = vec4(1.0, 1.0, 1.0, 1.0);\nuniform vec4 u_color_add = vec4(0.0, 0.0, 0.0, 0.0);\n\nvoid main() {\n    out_color = v_color;\n\n    out_color *= u_color_mod;\n    out_color += u_color_add;\n}\n
+lea	\nin vec3 v_color;\n\nout vec4 out_color;\n\nuniform vec4 u_color_mod = vec4(1.0, 1.0, 1.0, 1.0);\nuniform vec4 u_color_add = vec4(0.0, 0.0, 0.0, 0.0);\n\nvoid main() {\n    out_color = vec4(v_color.r, v_color.g, v_color.b, 1.0);\n\n    out_color *= u_color_mod;\n    out_color += u_color_add;\n}\n
+lea	\nout vec4 out_color;\n\nuniform vec4 u_color_mod = vec4(1.0, 1.0, 1.0, 1.0);\nuniform vec4 u_color_add = vec4(0.0, 0.0, 0.0, 0.0);\n\nvoid main() {\n    out_color = vec4(1.0, 1.0, 1.0, 1.0);\n\n    out_color *= u_color_mod;\n    out_color += u_color_add;\n}\n
+lea	\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec2 in_uv;\nlayout(location = 2) in vec4 in_rgba;\nlayout(location = 3) in vec4 in_tint;\nlayout(location = 4) in vec2 in_uv2;\nlayout(location = 5) in vec4 in_extra;\n\nout vec2 v_uv;\nout vec4 v_rgba;\nout vec4 v_tint;\nout vec2 v_uv2;\nout vec4 v_extra;\n\nuniform mat4 mvp;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n    v_uv = in_uv;\n    v_rgba = in_rgba;\n    v_tint = in_tint;\n    v_uv2 = in_uv2;\n    v_extra = in_extra;\n}\n
+lea	\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec2 in_uv;\nlayout(location = 2) in vec4 in_rgba;\n\nout vec2 v_uv;\nout vec4 v_rgba;\n\nuniform mat4 mvp;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n    v_uv = in_uv;\n    v_rgba = in_rgba;\n}\n
+lea	\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec2 in_uv;\nlayout(location = 2) in vec4 in_shape_data0;\nlayout(location = 3) in vec4 in_shape_data1;\nlayout(location = 4) in vec4 in_rgba0;\nlayout(location = 5) in vec4 in_rgba1;\nlayout(location = 6) in vec4 in_rgba2;\nlayout(location = 7) in vec4 in_rgba3;\n\nuniform mat4 mvp;\n\nout vec3 v_xyz;\nout vec2 v_uv;\nout vec4 v_shape_data0;\nout vec4 v_shape_data1;\nout vec4 v_rgba0;\nout vec4 v_rgba1;\nout vec4 v_rgba2;\nout vec4 v_rgba3;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position, 1.0);\n    v_xyz = in_position.xyz;\n    v_uv = in_uv;\n    v_shape_data0 = in_shape_data0;\n    v_shape_data1 = in_shape_data1;\n    v_rgba0 = in_rgba0;\n    v_rgba1 = in_rgba1;\n    v_rgba2 = in_rgba2;\n    v_rgba3 = in_rgba3;\n}\n
+lea	\nlayout(location = 0) in vec3 in_position;\nlayout(location = 1) in vec2 in_uv;\nlayout(location = 2) in vec4 in_color0;\nlayout(location = 3) in vec4 in_color1;\n\nout vec2 v_uv;\nout vec4 v_color0;\nout vec4 v_color1;\n\nuniform mat4 mvp;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n    v_uv = in_uv;\n    v_color0 = in_color0;\n    v_color1 = in_color1;\n}\n
+lea	\nlayout(location = 0) in vec3 in_position;\n\nuniform mat4 mvp;\n\nvoid main() {\n    gl_Position = mvp * vec4(in_position.x, in_position.y, in_position.z, 1.0);\n}\n
+lea	\nChess Pieces by Colin M.L. Burnett / BSD License\nAdditional Chess Pieces by Francois-Pier / BSD License\nhttps://commons.wikimedia.org/wiki/Category:SVG_chess_pieces\n\nCrimson Text by Sebastian Kosch / SIL Open Font License 1.1\nhttps://github.com/skosch/Crimson\n\nPublic Sans by Pablo Impallari, Rodrigo Fuenzalida (Modified by Dan O. Williams and USWDS) / SIL Open Font License 1.1\nhttps://github.com/uswds/public-sans\n\nInconsolata by The Inconsolata Project Authors / SIL Open Font License 1.1\nhttps://github.com/googlefonts/inconsolata\n\nVarious sounds by freesound.org users:\nAnton, tbrook, revolt2563, Samulis, mhomran, SamuelGremaud, Karma-Ron\n\nSoftware by the authors of:\nSDL2, SDL2_mixer, stb_image, stb_truetype, Dear ImGui, glad\n\nComplete licenses and per-file attributions can be found with the application's files.\n\n\nCopyright (c) 2020 Thunkspace, LLC\nAll Rights Reserved\n
+lea	Hotkeys:\nSelect/Drop: L/R mouse\nUndo: Backspace or Z\nSubmit: Enter or F\nReset puzzle: R\nCycle boards: Tab\nMove: WASD or arrows\nZoom: EQ or scroll\nViews: TY\nFlip Perspective: U\n
+lea	#?RADIANCE\n
+lea	#?RGBE\n
+lea	1) Who's turn is it?\n    A player makes moves while it is their turn in The Present. To complete their turn, a player must make moves until The Present shifts to their opponent. This can be done by taking action on multiple boards until The Present advances, or by creating a timeline in the past that rewinds The Present.\n@\n2) Which timelines must be played?\n    A player can ignore any timelines that are not needed to advance or rewind The Present. If a player branches twice before their opponent branches once, the extra branches will be inactive, and won't affect The Present until their opponent makes more branches. You can tell whether your next branch will be active by looking for a purple arrow indicator on The Present.\n\n@\n3) How are timelines created?\n    If a piece moves to a board where a move has already occured, a new timeline branch is created because history cannot be altered. The latest move on the new timeline is the time travelling piece's arrival. The latest move on the original timeline is the time travelling piece's departure.\n
+lea	Strategy Tips:\n- Attacking a king's past is easier than attacking its present. History cannot be altered to change where the king was or to allow another piece to block the attack. The attacker must be captured!\n- If you're in check on one timeline, your only option may be to time travel very far backwards from another timeline. Plan ahead and find a way to remove the troublesome check!\n- If a player branches twice before their opponent branches once, the extra timeline will be inactive and can be ignored. If a player cannot create active timelines, they cannot use time travel to get out of trouble. Branch purposefully!\n@\nMiscellaneous:\n- If the game is over and someone is checkmated (or stalemated), you can try moves on their behalf to see why.\n- One unit of time on a timeline is two boards. In ordinary chess, each numbered turn of a game is one move from white and one from black. For example, "1. e4 e5 2. f4 ..." is notation for the King's Gambit opening. One unit of time is the distance between your move and your previous move (with your opponent's reply in between). Select a piece and use the History or Parallel view to visualize moves without your opponent's boards visible.\n
+lea	    The rules of 5D Chess with Multiverse Time Travel are generalized from the rules of ordinary chess. The 5D in the name refers to the typical two spatial dimensions, a third unused spatial dimension, a fourth dimension representing time, and a fifth dimension representing parallel timelines. When pieces travel to the past, paradoxes are avoided by using a branching timeline system.\n\nSubjects:\n1) What is checkmate?\n2) How are a piece's available moves determined?\n3) What happens when a piece travels to the past?\n4) Who's turn is it, and on which timelines must they move?\n\n1) What is checkmate?\n    If a player has no way to end their turn (no way to move The Present without leaving themselves in check), then they are checkmated (or stalemated). For a game with a single timeline, this means all of their moves leave them in check (equivalent to ordinary chess). For a game with multiple timelines, it means every combination of moves leaves them in check and every time travel move leaves them in check. If a player has no way to end their turn, but they could pass on every board in the present without leaving themselves in check, they are stalemated rather than checkmated. A move that attacks a king's past is a valid check (it is not a special case, consider that applying the move would create a timeline with a captured king on it).\n\n2) How are a piece's available moves determined?\n    The existing rules that determine a piece's available moves are not specific to two dimensions. The movement rules are interpreted using additional coordinates to describe a piece's position. At the start of the game, white's queenside rook is on square A1. Technically, that rook is on turn 1, timeline 0, file A, rank 1. Just like in ordinary chess, a rook moves in a line with one dimension. A rook moving forward across the board is moving in one dimension because it is changing its row, but keeping its column, turn, and timeline constant. A rook moving into the past would change its turn, but keep its row, column, and timeline constant.\n\n2a) Why are two boards equal to one turn?\n    In ordinary chess, each numbered turn of the game is one move from white and one from black. For example, "1. e4 e5 2. f4 ..." is notation for the King's Gambit opening. Therefore, one turn is the distance between your move and your previous move (with your opponent's reply in between).\n\n2b) Piece movement descriptions:\nA rook moves any distance in one dimension.\nA bishop moves any distance in two dimensions at once. A direction defined by two dimensions is called a diagonal. In ordinary chess, bishops move along row/column diagonals.\nA knight moves two squares in one dimension, then one square in a different dimension.\nA queen moves any distance in any number of dimensions at once. This is more than just rook+bishop movement, because it includes triagonals and quadragonals.\nA king can move one square in any number of dimensions at once.\nA pawn moves one or two squares at a time in the "forward" direction. In ordinary chess, "forward" means towards your opponent's back row. Here, it also means "forward" towards your opponent's back timeline. A pawn can attack forward on row/column diagonals and forward on turn/timeline diagonals. A pawn only attacks on these two dimensional pairs, not on all forward diagonals.\nA unicorn can move any distance along a triagonal.\nA dragon can move any distance along a quadragonal.\nA princess is similar to the queen, except that it only has rook+bishop movement. It appears in the Standard - Princess variant.\n\n3) What happens when a piece travels to the past?\n    If a player moves a piece to a board where a move has already occured (part of a timeline's history), a new branch is created because history cannot be altered. The latest move on the new timeline is the time travelling piece's arrival. The latest move on the original timeline is the time travelling piece's departure. If a piece is moved to a board where a move has not yet been played (no established history), no branch occurs.\n\n4) Who's turn is it, and on which timelines must they move?\n    A player makes moves as long as it is their turn in The Present. The Present is wherever the earliest board without a move is on any active timeline. To complete a turn, a player may need to make multiple moves to advance all the active timelines to the next turn. If a player can create a new timeline, they can rewind The Present as a result of that single move, even if they had multiple boards in the present. If a player branches twice before their opponent branches once, the extra branches will be inactive, and won't affect The Present until their opponent makes more branches.\n\nThanks for reading!\n
+lea	- Attacking a king's past is easier than attacking its present. History cannot be altered to change where the king was or to allow another piece to block the attack. The attacker must be captured!\n- If you're in check on one timeline, your only option may be to time travel very far backwards from another timeline.\n- Your pieces can only travel to your boards.\n- If a player branches twice before their opponent branches once, the extra timeline will be inactive and won't affect The Present. If a player cannot create active timelines because they've already branched too much, they cannot use time travel to get out of trouble. Branch purposefully!\n- If someone is checkmated (or stalemated), you can try moves on their behalf to see why.\n\n
+data	July
+data	Sunday
+data	Monday
+data	Friday
+data	May
+data	Nov
+data	Thu
+data	August
+data	Oct
+data	Sat
+data	Apr
+data	Mar
+data	Sep
+data	Sun
+data	Jun
+data	Mon
+data	Jan
+data	Jul
+data	April
+data	Fri
+data	March
+data	Aug
+data	Tue
+data	June
+data	Wed
+data	Dec
+data	Feb
+data	NAN
+data	`RTTI
+data	`EH
+data	INF
+data	dddd, MMMM dd, yyyy
+data	MM/dd/yy
+data	February
+data	January
+data	Thursday
+data	Tuesday
+data	Wednesday
+data	Saturday
+lea	LCMapStringEx
+data	operator co_await
+data	HH:mm:ss
+lea	Fatal Error
+data	October
+data	November
+data	September
+data	December
+lea	Out of memory - aborting
+data	NAN(SNAN)
+data	NAN(IND)
+data	`vector deleting destructor'
+data	`scalar deleting destructor'
+data	`vbase destructor'
+data	`vector copy constructor iterator'
+data	`eh vector copy constructor iterator'
+data	`managed vector copy constructor iterator'
+data	`vector vbase copy constructor iterator'
+data	`eh vector vbase copy constructor iterator'
+data	`vector constructor iterator'
+data	`eh vector constructor iterator'
+data	`managed vector constructor iterator'
+data	`vector vbase constructor iterator'
+data	`eh vector vbase constructor iterator'
+data	`vector destructor iterator'
+data	`eh vector destructor iterator'
+data	`managed vector destructor iterator'
+data	`virtual displacement map'
+data	`vcall'
+data	`string'
+data	`udt returning'
+data	`omni callsig'
+data	`typeof'
+data	`copy constructor closure'
+data	`default constructor closure'
+data	`local vftable constructor closure'
+data	`placement delete closure'
+data	`placement delete[] closure'
+data	`vftable'
+data	`local vftable'
+data	`vbtable'
+data	`anonymous namespace'
+data	`local static thread guard'
+data	`local static guard'
+data	`dynamic atexit destructor for '
+data	`dynamic initializer for '
+data	operator "" 
+data	PST
+data	PDT
