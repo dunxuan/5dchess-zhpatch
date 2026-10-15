@@ -18,14 +18,17 @@
 
 ## 安装（玩家）
 
-见仓库根目录 **[安装说明.txt](安装说明.txt)**：解压 → 全部覆盖 → 启动即中文。
+见 **[安装说明.txt](安装说明.txt)**：解压到游戏目录 → 运行 `安装.bat` → 启动即中文。
+脚本会自动把原版 `SDL2.dll` 重命名备份为 `SDL2_orig.dll` 并覆盖字体（备份在
+`assets\fonts\orig\`），包内**不附带任何游戏文件**；`还原.bat` 可一键还原。
 
 ## 目录结构
 
 ```
-├── src/dllmain.cpp          补丁核心：SDL2 代理 + 三个函数挂钩 + 翻译/字形注入
+├── src/dllmain.cpp          补丁核心：SDL2 代理 + 四个函数挂钩 + 翻译/字形注入
 ├── build.bat                MSVC 构建（生成 out\SDL2.dll）
-├── package.ps1              组装发布 zip（自动下载 Noto 字体）
+├── package.ps1              组装发布 zip（安装.bat 负责重命名原版，不附带游戏文件）
+├── 安装.bat / 还原.bat       玩家侧一键安装/还原
 ├── translation.tsv          翻译表（英文<TAB>中文，\n 为换行转义）
 ├── config.example.ini       运行配置样例（debug / 字形注入阈值）
 ├── tools/
@@ -52,13 +55,12 @@ python tools\gen_def.py --game-dir "C:\Path\To\5dchesswithmultiversetimetravel"
 # 3) 校验翻译表
 python tools\validate_translation.py
 
-# 4) 组装发布包（会自动下载 Noto 字体）
-powershell -ExecutionPolicy Bypass -File package.ps1 -GameDir "C:\Path\To\5dchesswithmultiversetimetravel"
+# 4) 组装发布包（会自动下载 Noto 字体；包内不含游戏文件）
+powershell -ExecutionPolicy Bypass -File package.ps1
 ```
 
-产物 zip 内含：`SDL2.dll`（代理）、`SDL2_orig.dll`（取自游戏目录的原版
-SDL2 字节）、`zhpatch\`（翻译表+配置）、`assets\fonts\`（CJK 字体）、
-`安装说明.txt`。
+产物 zip 内含：`安装.bat`（重命名原版 SDL2 + 覆盖补丁）、`还原.bat`、
+`patch\`（代理 DLL、翻译表+配置、CJK 字体）、`安装说明.txt`。
 
 ## 工作原理（简）
 

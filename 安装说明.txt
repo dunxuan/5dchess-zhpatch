@@ -1,40 +1,42 @@
 5D Chess With Multiverse Time Travel — 简体中文汉化补丁
 ========================================================
 
-【安装方法】
+【安装方法】（3 步）
   1. 找到游戏安装目录（里面有 5dchesswithmultiversetimetravel.exe 的文件夹）。
-  2. 把本压缩包里的所有文件解压到该目录，全部选择“替换/覆盖”。
-  3. 直接双击游戏 exe 启动，即为中文版。
+  2. 把本压缩包里的全部内容解压到该目录。
+  3. 双击运行【安装.bat】——脚本会自动：
+       · 把原版 SDL2.dll 重命名备份为 SDL2_orig.dll
+       · 把原版字体备份到 assets\fonts\orig\
+       · 覆盖汉化代理、翻译表和中文字体
+  安装完成后双击游戏 exe，即为中文版。可重复运行，安全。
 
-  绿色免安装，重复覆盖安全：
-  - SDL2.dll      = 汉化代理（补丁本体，覆盖原文件）
-  - SDL2_orig.dll = 原版 SDL2（代理的转发目标，属于补丁运行必需组件，
-    不是备份文件——游戏运行时会自动加载它，不能删除）
+  注意：必须先解压再运行 安装.bat，不要跳过脚本直接覆盖
+  （补丁需要原版 SDL2.dll 先被重命名为 SDL2_orig.dll 才能工作）。
 
 【适用版本】
   仅适用于原版游戏 exe：
     文件名   5dchesswithmultiversetimetravel.exe
     大小     1,363,456 字节
     SHA256   087429A0118415B057F8CBDD82F57763B07250AACAC864FC87203968747B5815
-  （Steam 版 v1.0。exe 不同则挂钩地址会失效，请勿覆盖使用。）
+  （Steam 版 v1.0。exe 不同则挂钩地址失效，请勿使用。）
 
 【还原原版】
-  1. 删除 SDL2_orig.dll 和 zhpatch\ 文件夹；
-  2. 在 Steam 库中右键游戏 → 属性 → 已安装文件 → 验证游戏文件的完整性
-     （Steam 会把 SDL2.dll 和 5 个字体全部恢复为原版）。
+  双击运行【还原.bat】——会改回原版 SDL2.dll、删除 zhpatch\、恢复备份字体。
+  之后可在 Steam 中"验证游戏文件完整性"做最终校对。
 
 【修改翻译】
   编辑 zhpatch\translation.tsv（UTF-8 编码，每行：英文<TAB>中文），保存后重启游戏。
-  若某条显示英文，把它加进表里即可。
-  教程文本中的 \n 表示换行，修改时请保留。
+  若某条显示英文，把它加进表里即可；教程文本中的 \n 表示换行，请保留。
 
 【字体授权】
   内含 Noto Serif CJK SC / Noto Sans CJK SC，依据 SIL Open Font License 1.1 分发。
+  本包不含任何游戏本体文件（SDL2_orig.dll 由安装脚本在本机生成）。
 
 【故障排查】
-  - 界面异常时，把 zhpatch\config.ini 中 debug 改为 1，启动一次游戏后
-    查看 zhpatch\hook.log 与 zhpatch\boot.log；
-  - 启动弹“无法找到入口”错误 = exe 版本与补丁不匹配（见“适用版本”）；
+  - 界面异常时，把 zhpatch\config.ini 中 debug 改为 1，重启游戏后查看
+    zhpatch\hook.log 与 zhpatch\boot.log；
+  - 启动弹"无法找到入口"错误 = exe 版本与补丁不匹配（见"适用版本"），
+    或未运行 安装.bat 就直接覆盖了 SDL2.dll——先还原再按步骤安装；
   - 大字号英文标题（如 "Available Now"）为容量限制保留英文，属正常。
 
 仅供个人学习使用，请勿用于商业分发。
